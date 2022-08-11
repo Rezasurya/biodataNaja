@@ -1,5 +1,4 @@
 Nama: Muhammad Naja Tri Razaqa
 Jenis Kelamin: Laki-Laki
 TTL: Bandung, 10 Juli 2004
-Hobby: Badminton, Bermain Game & Menonton Film
-Cita-Cita: Full Stack Dev
+Hobby: Badminton, Bermain Game, Menonton Film & Tidur
